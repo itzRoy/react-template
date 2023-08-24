@@ -1,2 +1,5 @@
-node_modules
-.env.local
+server/node_modules
+client/node_modules
+backend/.env
+server/.env.local
+client/.env.local
